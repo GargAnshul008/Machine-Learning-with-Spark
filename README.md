@@ -1,37 +1,11 @@
-# DSGA1004 - BIG DATA
 ## Lab 5: Machine learning with spark
-- Prof Brian McFee (bm106)
-- Mayank Lamba (ml5711)
-- Saumya Goyal (sg5290)
 
-*Handout date*: 2019-04-11
+# Technologies Used
 
-*Submission deadline*: 2019-04-24
-
-
-## Requirements
-
-This lab assignment will require the use of Spark on the Dumbo cluster.
-
-As in the previous assignment, remember to activate your environment as follows:
-```
-module load python/gnu/3.6.5
-module load spark/2.4.0
-```
-
-Additionally, for this lab, you will be submitting non-interactive spark jobs rather than (or in addition to)
-using the `pyspark` shell.  Because of how the Dumbo cluster manages python environments, you will need to
-specify the python shell when submitting spark jobs.  This is done by setting the `PYSPARK_PYTHON` environment
-variable to explicitly give the path to the python binary you're using (e.g., 3.6.5).  You may find it useful to
-add the following shell alias to your `~/.bashrc` file:
-```
-alias spark-submit='PYSPARK_PYTHON=$(which python) spark-submit'
-```
-which will force `spark` to always match the python version to your currently loaded module when submitting a job.
 
 ## Part 0: Introduction
 
-In this assignment, you will develop pipelines for supervised and unsupervised machine learning with Spark's MLlib package.
+Develop pipelines for supervised and unsupervised machine learning with Spark's MLlib package.
 You will probably want to keep the [MLlib API reference](https://spark.apache.org/docs/latest/ml-guide.html) open while working through this assignment.
 
 As a data source, you will be using a collection gathered from the [Free Music Archive](https://freemusicarchive.org).
