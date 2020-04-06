@@ -1,0 +1,92 @@
+### Lab 5 results
+
+# [ANSHUL GARG]
+# [AG6516@NYU.EDU]
+
+
+# Part 1 results
+Score=0.024695323905494389
+
+# Part 2 results
+
+Summary Stats
+Precision = 0.5440288529204763
+Recall = 0.5440288529204773
+F1 Score = 0.5440288529204767
+Class 0.0 precision = 0.41075336658845789
+Class 0.0 recall = 0.12586014197251231
+Class 0.0 F1 Measure = 0.19268049055696387
+
+Class 1.0 precision = 0.16666666666666666
+Class 1.0 recall = 1.2048192771084237e-05
+Class 1.0 F1 Measure = 2.4194643760691995e-05
+
+Class 2.0 precision = 0.2808245618491237
+Class 2.0 recall = 0.004918844778742383
+Class 2.0 F1 Measure = 0.00966838160769056
+
+Class 3.0 precision = 0.10077519378944961
+Class 3.0 recall = 0.00015587529976031186
+Class 3.0 F1 Measure = 0.0003112691405591412
+
+Class 4.0 precision = 0.013793103448235862
+Class 4.0 recall = 2.73224043715847e-05
+Class 4.0 F1 Measure = 5.453677823982548e-05
+
+Class 5.0 precision = 0.0
+Class 5.0 recall = 0.0
+Class 5.0 F1 Measure = 0.0
+
+Class 6.0 precision = 0.0
+Class 6.0 recall = 0.0
+Class 6.0 F1 Measure = 0.0
+
+Class 7.0 precision = 0.0
+Class 7.0 recall = 0.0
+Class 7.0 F1 Measure = 0.0
+
+Class 8.0 precision = 0.0
+Class 8.0 recall = 0.0
+Class 8.0 F1 Measure = 0.0
+
+Class 9.0 precision = 0.0
+Class 9.0 recall = 0.0
+Class 9.0 F1 Measure = 0.0
+
+Class 10.0 precision = 0.4057971014487754
+Class 10.0 recall = 0.06363636363636363
+Class 10.0 F1 Measure = 0.11001964636537239
+
+Class 11.0 precision = 0.0
+Class 11.0 recall = 0.0
+Class 11.0 F1 Measure = 0.0
+
+Class 12.0 precision = 0.0
+Class 12.0 recall = 0.0
+Class 12.0 F1 Measure = 0.0
+
+Class 13.0 precision = 0.0
+Class 13.0 recall = 0.0
+Class 13.0 F1 Measure = 0.0
+
+Class 14.0 precision = 0.0
+Class 14.0 recall = 0.0
+Class 14.0 F1 Measure = 0.0
+
+Class 15.0 precision = 0.0
+Class 15.0 recall = 0.0
+Class 15.0 F1 Measure = 0.0
+
+Class 16.0 precision = 0.5501440371713042
+Class 16.0 recall = 0.968413981391673
+Class 16.0 F1 Measure = 0.7016751034380798
+
+Weighted recall = 0.5440288529174785
+
+Weighted precision = 0.39922378448287926
+
+Weighted F(1) Score = 0.40819278893450127
+
+Weighted F(0.5) Score = 0.36733097269343325
+
+Weighted false positive rate = 0.5179818627243783
