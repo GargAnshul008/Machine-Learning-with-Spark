@@ -1,6 +1,6 @@
-## Lab 5: Machine learning with spark
+# Machine learning with spark
 
-# Technologies Used
+## Technologies Used
 
 
 ## Part 0: Introduction
